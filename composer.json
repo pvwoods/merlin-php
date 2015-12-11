@@ -1,0 +1,16 @@
+{
+  "name": "blackbirdtech/merlin-php",
+  "version": "0.0.1",
+  "description": "Merlin PHP SDK",
+  "require": {
+      "php": ">=5.5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.4.*"
+  },
+  "autoload": {
+    "classmap": [
+        "Merlin/"
+    ]
+  }
+}
