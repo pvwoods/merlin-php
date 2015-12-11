@@ -1,0 +1,23 @@
+.*
+!.gitignore
+
+# tags
+tags
+.tags
+
+
+# temporary
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+*.pid
+*.DS_Store
+
+# packages
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+*.bz2
